@@ -1,0 +1,11 @@
+langgraph
+langchain
+langsmith
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+langchain-google-vertexai
+langchain_tavily
